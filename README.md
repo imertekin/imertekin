@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm ilkay Murat Ertekin
 
 ![](https://komarev.com/ghpvc/?username=imertekin)
-
-- 🔭 I’m currently working on Django Rest, React JS, Nodejs
-- 🌱 I’m currently learning Data Science
+ 
+- :snake: Python / JS :eyes: GCP :cloud: Docker :anchor: etc.
+- 🌱 Lifelong Learning
 - 📫 How to reach me: iertekinx@gmail.com
 
